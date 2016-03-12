@@ -2,4 +2,4 @@
 
 This is my change...
 
-Fiddling around from my computer, uploaded via TortoiseHg...  :)
+Fiddling around from my home, uploaded via TortoiseHg...  :)
